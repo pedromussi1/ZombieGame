@@ -44,61 +44,37 @@
 
 
 
-<h3>There is a very nice reloading animation in the game!</h3>
+<h3>There is a very nice reloading animation in the game! Also, during Wave 2 the number of zombies increases to 8!</h3>
 
 <p align="center">
   <kbd><img src="https://i.imgur.com/va4wk1z.png" alt="Level 3"></kbd>
 </p>
 
-<p>In this level, we introduce the concept of crouching, with the idea that by using the crouching mechanism, the player can go past obstacles they would not be able to if they were standing up. By using that mechanic correctly, the player gets to move to the next level.</p>
 
-<h3>Level 4</h3>
 
-<p align="center">
-  <kbd><img src="https://i.imgur.com/3dfoBgc.png" alt="Level 4"></kbd>
-</p>
-
-<p>In this level, we introduce the trampoline object, distinguished with a bright green color. By touching object with this green color, the player will be propelled upwards, thus being able to make higher jumps.</p>
-
-<h3>Level 5</h3>
+<h3>There are 12 zombies in Wave 3! The player must be really careful not to die.</h3>
 
 <p align="center">
-  <kbd><img src="https://i.imgur.com/RLMFD1t.png" alt="Level 5"></kbd>
+  <kbd><img src="https://i.imgur.com/djiJs8k.png" alt="Level 4"></kbd>
 </p>
 
-<p>This level is used as a recap of all the abilities and mechanics introduced in the game so far. By using everything the player learned with levels 1-4, they will be able to move on to the next level.</p>
 
-<h3>Level 6</h3>
+<h3>If they die, this is what happens :(</h3>
 
 <p align="center">
-  <kbd><img src="https://i.imgur.com/4mwyQXP.png" alt="Level 6"></kbd>
+  <kbd><img src="https://i.imgur.com/7nwz6lb.png" alt="Level 5"></kbd>
 </p>
 
-<p>This level is similar to a memory card game. By touching each button on the platform, a color will be revealed. The player must match the pairs of colored blocks and complete the puzzle. By doing so, the next level is unlocked.</p>
 
-<h3>Level 7</h3>
+<h3>If they win, this is what happens! :D</h3>
 
 <p align="center">
-  <kbd><img src="https://i.imgur.com/Mdney5Y.png" alt="Level 7"></kbd>
+  <kbd><img src="https://i.imgur.com/wZG2yge.png" alt="Level 6"></kbd>
 </p>
 
-<p>This level introduces the Shoot Tubes that teleport the player up, down, or forward. In this level it is used as a fun and fast way to travel through the level and collect all the rings. The pplayer only has to be careful not to fall off the platforms.</p>
 
-<h3>Level 8</h3>
 
-<p align="center">
-  <kbd><img src="https://i.imgur.com/Miq0agH.png" alt="Level 8"></kbd>
-</p>
 
-<p>This level is similar to a Simon Color game. A big cube shows a color sequence. The player must click the buttons to match that color sequence. After three turns taht get increasingly difficult, the player completes the level.</p>
-
-<h3>Level 9</h3>
-
-<p align="center">
-  <kbd><img src="https://i.imgur.com/kyygtZ3.png" alt="Level 9"></kbd>
-</p>
-
-<p>This level is a maze. The player must go inside the maze and collect the rings hidden inside the rooms. They must track their progress and fidn their way to all the rings to complete the level.</p>
 
 
 
