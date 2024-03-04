@@ -39,7 +39,7 @@
 <h3>The player can find a ammo box that will help them have enough ammo to fight off all the zombies!</h3>
 
 <p align="center">
-  <kbd><img src="https://i.imgur.com/ZCM5RN7.png" alt="Level 2"></kbd>
+  <kbd><img src="hhttps://i.imgur.com/H2hrzjZ.png" alt="Level 2"></kbd>
 </p>
 
 <!--<p>The player can find a ammo box that will help them have enough ammo to fight off all the zombies!</p> --!>
