@@ -42,12 +42,12 @@
   <kbd><img src="https://i.imgur.com/H2hrzjZ.png" alt="Level 2"></kbd>
 </p>
 
-<!--<p>The player can find a ammo box that will help them have enough ammo to fight off all the zombies!</p> --!>
 
-<h3>Level 3</h3>
+
+<h3>There is a very nice reloading animation in the game!</h3>
 
 <p align="center">
-  <kbd><img src="https://i.imgur.com/AGIusI8.png" alt="Level 3"></kbd>
+  <kbd><img src="https://i.imgur.com/va4wk1z.png" alt="Level 3"></kbd>
 </p>
 
 <p>In this level, we introduce the concept of crouching, with the idea that by using the crouching mechanism, the player can go past obstacles they would not be able to if they were standing up. By using that mechanic correctly, the player gets to move to the next level.</p>
