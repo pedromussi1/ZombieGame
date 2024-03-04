@@ -1,7 +1,4 @@
-# ZombieGame
-
-
-<h1 align="center">PuzzleSolver</h1>
+<h1 align="center">ZombieGame</h1>
 
 ### [YouTube Demonstration](https://www.youtube.com/watch?v=wtw1QMQUFRQ)
 
