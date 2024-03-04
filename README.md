@@ -34,7 +34,7 @@
   <kbd><img src="https://i.imgur.com/Q0TytpN.png" alt="Level 1"></kbd>
 </p>
 
-<!--<p>The first wave consits of 4 bloodlusted zombies who will not stop until they kill or are killed! The player must kill them all to reach the next wave.</p> --!>
+
 
 <h3>The player can find a ammo box that will help them have enough ammo to fight off all the zombies!</h3>
 
