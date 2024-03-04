@@ -28,13 +28,13 @@
 
 <h2>Game Walk-through</h2>
 
-<h3>Level 1</h3>
+#<h3>The first wave consits of 4 bloodlusted zombies who will not stop until they kill or are killed! The player must kill them all to reach the next wave.</h3>
 
 <p align="center">
-  <kbd><img src="https://i.imgur.com/KRMatUC.png" alt="Level 1"></kbd>
+  <kbd><img src="https://i.imgur.com/Q0TytpN.png" alt="Level 1"></kbd>
 </p>
 
-<p>In this level, we introduce the first, most basic mechanics of the game, which are how to walk and jump. In order to move to the next level, the player must move from platforms and get to the gold coin.</p>
+<p>The first wave consits of 4 bloodlusted zombies who will not stop until they kill or are killed! The player must kill them all to reach the next wave.</p>
 
 <h3>Level 2</h3>
 
@@ -42,7 +42,7 @@
   <kbd><img src="https://i.imgur.com/ZCM5RN7.png" alt="Level 2"></kbd>
 </p>
 
-<p>In this level, we introduce the concept of sprinting, with the idea that by using the sprint mechanism, the player can move faster and thus make longer jumps. The player must master the sprinting mechanic in order to move on to the next level.</p>
+<p>The player can find a ammo box that will help them have enough ammo to fight off all the zombies!</p>
 
 <h3>Level 3</h3>
 
