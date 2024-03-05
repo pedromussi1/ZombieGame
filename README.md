@@ -10,7 +10,7 @@
 
 <h2>Description</h2>
 
-<p>The player is given a gun and they must survive the zombie attack. There 3 waves of zombies, each wave is harder than the last, can you kill all the zombies and survive until the end? This game was designed on Unreal Engine 5, it is a Zombie shooter game. They player has to survive 3 Waves of Zombies by using the revolver they are provided with at the beginning of the game. There are ammo crates they can find around the map to help reload. After killing all zombies, you win the game! Most of the content and ideas of this game were taken from Smart Poly's video that can be found here: https://www.youtube.com/watch?v=qOam3QjGE8g.</p>
+<p>The player is given a gun and they must survive the zombie attack. There 3 waves of zombies, each wave is harder than the last, can you kill all the zombies and survive until the end? This game was designed on Unreal Engine 5, it is a Zombie shooter game. They player has to survive 3 Waves of Zombies by using the revolver they are provided with at the beginning of the game. There are ammo crates they can find around the map to help reload. After killing all zombies, you win the game! Most of the content and ideas of this game were taken from Smart Poly's video that can be found here: https://www.youtube.com/watch?v=qOam3QjGE8g. Howver, this game I have created is my own and I made significant changes to how the game is played and its functionalities.</p>
 
 <h2>Languages and Utilities Used</h2>
 
