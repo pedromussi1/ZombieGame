@@ -3,7 +3,7 @@
 ### [YouTube Demonstration](https://www.youtube.com/watch?v=BVd8ceOzIzk)
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=BVd8ceOzIzk"><img src="https://img.youtube.com/vi/BVd8ceOzIzk/0.jpg" alt="YouTube Demonstration"></a>
+  <a href="https://www.youtube.com/watch?v=BVd8ceOzIzk"><img src="https://i.imgur.com/J24FQYQ.gif" width="800px" alt="YouTube Demonstration"></a>
 </p>
 
 ### [Download the Game Here!](https://drive.google.com/file/d/1t9O55ZNaIEPZbo2YJsYByIvCTQt4wCiM/view?usp=drive_link)
